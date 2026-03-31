@@ -1,33 +1,41 @@
-# 👋 Hi, I'm Umang Gupta
+![space](https://images.unsplash.com/photo-1446776811953-b23d57bd21aa)
 
-💻 Software Developer | Java & DSA  
-🚀 Building real-world web applications and AI-based systems  
-🌹 Creator of RosePetal — Task Management Application  
-📊 Experience with AI, Data Analytics & Frontend Development  
-🧠 Consistent learner | Problem Solving | Tech Explorationn  
+# 🌌🚀 Welcome to My Universe
 
-# 🚀 About Me
+Hi, I'm Umang Gupta 👋  
 
-- 🎯 Focused on Backend Development (Spring Boot — Learning)  
-- 💻 Strong foundation in Java and Data Structures & Algorithms  
-- 🌐 Experience in Frontend Development (HTML, CSS, JavaScript, Tailwind)  
-- 🤖 Worked on AI-based systems using Python & LLMs  
-- 📊 Exposure to Data Analytics & Visualization (Tableau)  
-- 🧠 Consistent problem solver (LeetCode & HackerRank)  
+💻 Building systems on Earth, inspired by the complexity of the cosmos 🌌  
 
-# 🛠 Tech Stack
+---
 
-## 💻 Languages
-- Java  
-- Python  
-- JavaScript  
+## 🌠 About Me
 
-## 🌐 Frontend
+- 💻 Software Developer (Java | DSA)  
+- 🚀 Exploring Backend Development (Spring Boot — Learning)  
+- 🤖 Building AI-powered and real-world applications  
+- 🌐 Frontend Developer (HTML, CSS, JavaScript, Tailwind)  
+- 📊 Exposure to Data Analytics & Visualization  
+- 🌌 Curious about space, cosmos, and infinite possibilities  
+
+---
+
+## 🛰️ Tech Stack
+
+### 🚀 Languages
+- Java  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+- Python    
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+- JavaScript        
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+### 🌐 Frontend
 - HTML  
 - CSS  
 - Tailwind CSS  
 
-## ⚙️ Tools & Technologies
+### ⚙️ Tools & Technologies
 - Git & GitHub  
 - IntelliJ IDEA  
 - VS Code  
@@ -35,31 +43,44 @@
 - Tableau  
 - Ollama  
 
-# 🚀 Featured Projects
+---
 
-## 🌹 RosePetal — Task Management Application  
-- Feature-rich To-Do app with drag & drop, filtering, dark mode  
-- Built using HTML, CSS, JavaScript, Tailwind  
-- Uses Local Storage for persistent data  
+## 🌌 Featured Projects
+
+### 🌹 RosePetal — Task Management Application  
+A modern, feature-rich task manager with drag & drop, filtering, and dark mode  
 
 🔗 [GitHub Repo] (https://github.com/thecoderSky/to-do-app.git)  
 🌐 [Live Demo] (https://modern-ui-todo-app.netlify.app/)
 
+---
+
 ### 🤖 Mental Support Chatbot  
-- AI chatbot for emotional support using Python & LLM  
-- Built using Ollama + Streamlit  
-- Focused on privacy and local execution  
+AI-powered chatbot using Python + local LLM (Ollama) + Streamlit  
 
-🔗 [GitHub Repo] https://github.com/thecoderSky/mental-support-chatbot.git
+🔗 [GitHub Repo] (https://github.com/thecoderSky/mental-support-chatbot.git)
 
-## 📊 GitHub Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thecoderSky&show_icons=true)  
+## 🌠 Current Focus
 
+- ⚙️ Backend Development (Spring Boot)  
+- 🧠 Data Structures & Algorithms  
+- 🚀 Building scalable systems  
 
-## 📫 Connect With Me
+---
 
-- LinkedIn: www.linkedin.com/in/ummang 
-- GitHub: https://github.com/thecoderSky  
+## 🌍 Connect With Me
 
-⭐ Always learning. Always building.
+- 💼 LinkedIn: www.linkedin.com/in/ummang  
+- 💻 GitHub: https://github.com/thecoderSky  
+
+---
+
+## 🌌 Cosmic Note
+
+> “Somewhere, something incredible is waiting to be known.” — Carl Sagan 🌠  
+
+---
+
+⭐ Exploring. Building. Expanding.
