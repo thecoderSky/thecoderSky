@@ -36,8 +36,10 @@ Hi, I'm Umang Gupta 👋
 ### ⚙️ Tools & Technologies
 - Git & GitHub  
 - IntelliJ IDEA  
-- VS Code  
-- Netlify  
+- VS Code
+- Eclipse IDE
+- Netlify
+- Vercel
 - Tableau  
 - Ollama  
 
